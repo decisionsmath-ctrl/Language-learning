@@ -1,0 +1,6 @@
+{
+  "name": "LinguaPulse",
+  "description": "Daily vocabulary practice with spaced repetition, interactive grammar quizzes, sentence lab, and AI tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
